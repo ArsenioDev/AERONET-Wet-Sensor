@@ -3,7 +3,7 @@
 ## Files and guide to assemble the conductive rain sensor custom design for the NASA AERONET instruments.  
 ![Overview image](/Images/00.jpg)
 ### BOM 
-1. [PCB (*MUST USE ENIG, HASL degrades far too fast*) (also available in /Hardware directory for Eagle .brd files and gerbers) ](/Electrical/WetSensorV3.brd)
+1. [PCB (*MUST USE ENIG, HASL degrades far too fast*) (Check /Hardware directory for Eagle .brd files and gerbers) ](https://oshpark.com/shared_projects/1m1oY7qL)
 2. [100K 0603 resistor](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603JT100K/1758100) 
 3. [3D printed support (Use PLA for cheap and easy but ASA or PETG for better UV resistance)](/Mechanical/SupportV3.stl)
 4. [4Core telephone wire RJ11](https://www.digikey.com/en/products/detail/cnc-tech/530-26-04-SV-0100F/3442474) 
