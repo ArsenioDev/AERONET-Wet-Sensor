@@ -8,6 +8,7 @@
 3. [3D printed support (Use PLA for cheap and easy but ASA or PETG for better UV resistance)](/Mechanical/SupportV3.stl)
 4. [4Core telephone wire RJ11](https://www.digikey.com/en/products/detail/cnc-tech/530-26-04-SV-0100F/3442474) 
 5. [RJ22 4P4C connector](https://www.digikey.com/en/products/detail/stewart-connector/940-SP-3044/388264) 
+6. [3M 5200FC marine sealant/adhesive](https://www.3m.com/3M/en_US/p/dc/v000311743/)
 ----
 ### Build Instructions 
 **Step 1** 
