@@ -4,7 +4,7 @@
 ![Overview image](/Images/00.jpg)
 ### BOM 
 1. [PCB (*MUST USE ENIG, HASL degrades far too fast*) (Check /Hardware directory for Eagle .brd files and gerbers) ](https://oshpark.com/shared_projects/1m1oY7qL)
-2. [100K 0603 resistor](https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603JT100K/1758100) 
+2. [100K 0603 resistor](https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/730491) 
 3. [3D printed support (Use PLA for cheap and easy but ASA or PETG for better UV resistance)](/Mechanical/SupportV3.stl)
 4. [4Core telephone wire RJ11](https://www.digikey.com/en/products/detail/cnc-tech/530-26-04-SV-0100F/3442474) 
 5. [RJ22 4P4C connector](https://www.digikey.com/en/products/detail/stewart-connector/940-SP-3044/388264) 
