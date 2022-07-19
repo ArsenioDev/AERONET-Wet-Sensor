@@ -1,3 +1,4 @@
+<img align="right" width="128" height="128" src="https://www.x20.org/wp-content/uploads/2015/01/NASA-logo.png"><br/>
 # AERONET-Wet-Sensor
 *A custom designed replacement for the consumable rain sensors you can build in your own lab for a fraction of the cost* 
 ## Files and guide to assemble the conductive rain sensor custom design for the NASA AERONET instruments.  
